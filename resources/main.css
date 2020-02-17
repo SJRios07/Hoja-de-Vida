@@ -1,0 +1,251 @@
+.o-headerNameText{
+    font-size: 48px;
+    color: #ffffff;
+    margin: 0px;
+}
+.o-headerTitlesText{
+    font-size: 18px;
+    color: #ffffff;
+    margin: 0px;
+}
+
+.o-topLineHeader{
+    background-color: #4A88DB;
+    width: 100%;
+    height: 43px;
+}
+
+.o-headerContainer{
+    font-family:'Roboto', sans-serif;
+    width: 100%;
+    height: 100px;
+    background-color: #1162CE;  
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: flex-start;
+}   
+
+.o-ppImage{
+    width: 155px;
+    height: 155px;
+    border-radius: 100%;
+    margin: 0rem 1rem 0rem 5vw;
+}
+
+.o-infoContainer{
+    font-family:'Roboto', sans-serif;
+    background-color: #EAEAEA;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.o-whiteContainerBig{
+    background-color: #ffffff;
+    width: 720px;
+    height: 650px;
+    margin: 4rem 0rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.25);
+}
+
+.o-whiteContainerMed{
+    background-color: #ffffff;
+    width: 690px;
+    height: 300px;
+    margin: 0rem 0rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: row wrap;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
+} 
+
+.o-whiteContainerSmallText{
+    background-color: #ffffff;
+    width: 330px;
+    height: 250px;
+    margin: 1rem 0.5rem;
+}
+
+.o-aboutMeTitle{
+    margin: 1rem 0rem 0.5rem 1rem;
+    font-size: 36px;
+}
+
+.o-aboutMeBody{
+    margin: 0rem 1rem 0rem 1rem;
+    font-size: 22px;
+}
+
+.o-whiteContainerSmallBars{
+    background-color: #ffffff;
+    width: 330px;
+    height: 250px;
+    margin: 2rem 0.5rem 1rem 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+
+.o-outerLightBlueCont{
+    background-color: #88B2E8;
+    width: 268px;
+    height: 48px;
+    margin: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
+}
+
+.o-outerLightBlueText{
+    font-size: 24px;
+    margin: 0rem 0.5rem;
+}
+
+.o-innerDarkBlueCont{
+    background-color: #1162CE;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.o-outerDarkBlueText{
+    font-size: 24px;
+    margin: 0rem 0.5rem;
+    color: #ffffff;
+}
+
+.o-whiteContainerSmallTitlesHobbies{
+    background-color: #ffffff;
+    width: 300px;
+    height: 250px;
+    margin: 0rem 1rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.o-blueTitlesContainer{
+    background-color: #1162CE;
+    width: 260px;
+    height: 70px;
+    margin: 0rem 1rem 1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
+
+}
+
+.o-titleshobbiesTitle{
+    margin: 1rem 1rem;
+    font-size: 22px;
+}
+
+.o-blueHobbiesContainer{
+    font-family:'Roboto', sans-serif;
+    background-color: #1162CE;
+    width: 260px;
+    height: 50px;
+    margin: 0rem 1rem 1rem 1rem;
+    color: #ffffff;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
+}
+
+.o-hobbieTitle{
+    margin: 1rem 1rem;
+    font-size: 24px;
+}
+
+.o-whiteContainerSmallBarsRound{
+    font-family:'Roboto', sans-serif;
+    background-color: #ffffff;
+    width: 330px;
+    height: 250px;
+    margin: 2rem 0.5rem 1rem 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    flex-flow: column wrap;
+}
+
+.o-barsRoundContainer{
+    font-family:'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+}
+
+.o-outerLightBlueContRound{
+    background-color: #88B2E8;
+    width: 260px;
+    height: 40px;
+    margin: 0rem 0.3rem 0rem 0.1rem;
+    border-radius:30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
+}
+
+.o-innerDarkBlueContRound{
+    background-color: #1162CE;
+    color: #1162CE;
+    height: 100%;
+    border-radius:30px;
+    display: flex;
+    align-items: center;
+}
+
+.o-whiteLastProjectsContainer{
+    width: 650px;
+    height: 250px;
+    margin: 0rem 0rem;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column wrap;
+}
+
+.o-lightBlueProjectContRound{
+    background-color: #1162CE;
+    color: #ffffff;
+    width: 650px;
+    height: 85px;
+    margin: 0.2rem;
+    border-radius:70px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-flow: row wrap;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
+}
+
+.o-projectImage{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin: 0rem 1rem;
+}
+
+.o-projectTitle{
+    margin: 0rem;
+    font-size: 24px;
+}
+
+.o-projectBodyText{
+    margin: 0rem;
+    font-size: 14px;
+}
