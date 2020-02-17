@@ -1,8 +1,13 @@
+body{
+    margin: 0;
+}
+
 .o-headerNameText{
     font-size: 48px;
     color: #ffffff;
     margin: 0px;
 }
+
 .o-headerTitlesText{
     font-size: 18px;
     color: #ffffff;
